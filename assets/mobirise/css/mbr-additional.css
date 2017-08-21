@@ -1,9 +1,9 @@
-#menu-0 .mbr-brand__name {
+#menu-2 .mbr-brand__name {
   font-size: 16px;
 }
-#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+#menu-2.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
-#menu-0 .mbr-navbar__hamburger {
+#menu-2 .mbr-navbar__hamburger {
   color: #ffffff;
 }

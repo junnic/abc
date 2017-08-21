@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "4.1.7",
-    "uniqCompNum": 2,
+    "uniqCompNum": 4,
     "versionPublish": "4.1.7"
   },
   "pages": {
@@ -67,7 +67,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-0"
+          "_anchor": "menu-2"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -97,7 +97,7 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1"
+          "_anchor": "header1-3"
         }
       ]
     }
